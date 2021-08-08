@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041382555632",
+    "project_id": "talker-604e3",
+    "storage_bucket": "talker-604e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041382555632:android:713c15b4d1d92223812735",
+        "android_client_info": {
+          "package_name": "com.elvitalya.talker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041382555632-ihupsnqdtrs01mm17e6tsu31ls9b6tn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvitalya.talker",
+            "certificate_hash": "776c23be82ae2471810134e655d465c8c4b99cb3"
+          }
+        },
+        {
+          "client_id": "1041382555632-sl11v34l3r4h7diicgqguog3mk3ivr0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKkaeBAz21aFg60SdFDTowxzn9AuOVrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041382555632-sl11v34l3r4h7diicgqguog3mk3ivr0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
